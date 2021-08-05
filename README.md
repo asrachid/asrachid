@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Asma RACHID
 
 <!--
 **asrachid/asrachid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I'm currently working on an intern project
+👀 I'm interested in web and mobile development
+📫 [Reach me on Linkedin](https://www.linkedin.com/in/asma-rachid-34b86b129/)
