@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🔭 I'm currently working on an intern project
-* 👀 I'm interested in web and mobile development
+* 🔭 I am currently working on an end-of-studies internship project
+* 🌱 I am currently learning all about blockchain, web 3.0, dapps, solidity, smart contracts, ...
+* 👀 I'm interested in web, mobile and blockchain development
 * 📫 [Reach me on Linkedin](https://www.linkedin.com/in/asma-rachid-34b86b129/)
