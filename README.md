@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Asma RACHID
+### Hi there 👋 I'm Asma RACHID, a software engineer
 
 <!--
 **asrachid/asrachid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-* 🔭 I am currently working on an end-of-studies internship project
-* 🌱 I am currently learning all about blockchain, web 3.0, dapps, solidity, smart contracts, ...
-* 👀 I'm interested in web, mobile and blockchain development
+* 👯 I’m currently looking for a pre-employment internship opportunity
+* 🔭 Having some knowledge about DevOps, I'm currently working hard to gain experience practicing some DevOps techniques
+* 👀 I'm interested in web and mobile development and I'm a Devops and Automated testing enthusiast
 * 📫 [Reach me on Linkedin](https://www.linkedin.com/in/asma-rachid-34b86b129/)
