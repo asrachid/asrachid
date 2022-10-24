@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 👯 I’m currently looking for a pre-employment internship opportunity
-* 🔭 Having some knowledge about DevOps, I'm currently working hard to gain experience practicing some DevOps techniques
-* 👀 I'm interested in web and mobile development and I'm a Devops and Automated testing enthusiast
+* 👀 I'm interested in web development and I'm a blockchain development enthusiast
+* 🔭 I am currently working hard to improve my skills in web development with ASP.NET as well as blockchain development
 * 📫 [Reach me on Linkedin](https://www.linkedin.com/in/asma-rachid-34b86b129/)
