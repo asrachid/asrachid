@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 👯 I’m currently looking for a pre-employment internship opportunity
-* 👀 I'm interested in web development and I'm a blockchain development enthusiast
-* 🔭 I am currently working hard to improve my skills in web development with ASP.NET as well as blockchain development
+<!-- 👯 I’m currently looking for a pre-employment internship opportunity-->
+* 👀 I'm a blockchain development enthusiast
+* 🔭 I am currently working hard to improve my skills in blockchain development
 * 📫 [Reach me on Linkedin](https://www.linkedin.com/in/asma-rachid-34b86b129/)
